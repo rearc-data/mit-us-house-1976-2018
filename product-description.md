@@ -12,7 +12,7 @@ The included data is provided by Harvard Dataverse, which contains almost 100,00
 
 #### Data Source
 
-This resource is presented in the CSV format. The dataset includes a codebook in which there is information on the columns.
+This resource is presented in the CSV format. The dataset includes a codebook in which there is information on each column and the source.
 
 
 ## More Information
